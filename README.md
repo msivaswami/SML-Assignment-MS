@@ -1,4 +1,4 @@
-# Neuroblastoma-Shared
+# SML-Assignment-MS
 A shared repository for the Data Analytics and Statistical Machine Learning Module Assignment.
 
 Authors: Muthukumaraswami Sivaswami, Dante Perea.
