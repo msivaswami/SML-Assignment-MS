@@ -13,7 +13,7 @@ File - MS_Analysis.ipynb
 The Jupyter Notebook contains all the analysis done, with unsupervised learning, training models and predictions saved to a new tsv file for easy viewing.
 
 # Microarray Analysis 
-  Dante Perea ()
+  Dante Perea (2718874)
 
 File - microarray_analysis.ipynb
 
