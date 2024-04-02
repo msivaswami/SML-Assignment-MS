@@ -80,5 +80,6 @@ grid.arrange(
   padding = unit(0.5, "lines")
 )
 
-
+#Saving the grid of plots
+ggsave("grid_plots.png", plot = gridplots, width = 10, height = 8, units = "in", dpi = 300)
 
